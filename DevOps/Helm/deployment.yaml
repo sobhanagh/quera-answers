@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: "{{ default "myapp" .Release.Name }}-deployment"
+  labels:
+    app: "{{ default "myapp" .Release.Name }}"
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: "{{ default "myapp" .Release.Name }}"
+  template:
+    metadata:
+      labels:
+        app: "{{ default "myapp" .Release.Name }}"
+    spec:
+      containers:
+        {{- range $image := .Values.images }}
+        - name: "{{ default "myapp" $.Release.Name }}-{{ $image }}"
+          image: "{{ $image }}"
+        {{- end }}
+
