@@ -14,3 +14,4 @@
 |اسکرول| [ سوال](https://quera.org/problemset/291596)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%A7%D8%B3%DA%A9%D8%B1%D9%88%D9%84) |
 |پورت| [ سوال](https://quera.org/problemset/291597)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D9%BE%D9%88%D8%B1%D8%AA) |
 |بازی همکاران II| [ سوال](https://quera.org/problemset/244097)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-II) |
+|رنگ مکمل| [ سوال](https://quera.org/problemset/244098)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%B1%D9%86%DA%AF-%D9%85%DA%A9%D9%85%D9%84) |
