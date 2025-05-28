@@ -13,3 +13,4 @@
 |وابستگی میان پکیجی| [ سوال](https://quera.org/problemset/136630)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/DevOps/%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%DA%AF%DB%8C-%D9%85%DB%8C%D8%A7%D9%86-%D9%BE%DA%A9%DB%8C%D8%AC%DB%8C) |
 |اسکرول| [ سوال](https://quera.org/problemset/291596)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%A7%D8%B3%DA%A9%D8%B1%D9%88%D9%84) |
 |پورت| [ سوال](https://quera.org/problemset/291597)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D9%BE%D9%88%D8%B1%D8%AA) |
+|بازی همکاران II| [ سوال](https://quera.org/problemset/244097)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D9%85%DA%A9%D8%A7%D8%B1%D8%A7%D9%86-II) |
