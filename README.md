@@ -19,3 +19,4 @@
 |کتاب‌خانه‌ی پردردسر| [ سوال](https://quera.org/problemset/181681)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/Golang/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%AE%D8%A7%D9%86%D9%87-%DB%8C-%D9%BE%D8%B1-%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1) |
 |پرش خودکار| [ سوال](https://quera.org/problemset/220649)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D9%BE%D8%B1%D8%B4-%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1) |
 |استپ ها| [ سوال](https://quera.org/problemset/183834)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%A7%D8%B3%D8%AA%D9%BE-%D9%87%D8%A7) |
+|تشابه‌سنج ابلفضلی| [ سوال](https://quera.org/problemset/291524)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/Linux/%D8%AA%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D9%86%D8%AC-%D8%A7%D8%A8%D9%84%D9%81%D8%B6%D9%84%DB%8C) |
