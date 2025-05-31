@@ -21,3 +21,4 @@
 |استپ ها| [ سوال](https://quera.org/problemset/183834)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%A7%D8%B3%D8%AA%D9%BE-%D9%87%D8%A7) |
 |تشابه‌سنج ابلفضلی| [ سوال](https://quera.org/problemset/291524)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/Linux/%D8%AA%D8%B4%D8%A7%D8%A8%D9%87-%D8%B3%D9%86%D8%AC-%D8%A7%D8%A8%D9%84%D9%81%D8%B6%D9%84%DB%8C) |
 |اسکوربورد| [ سوال](https://quera.org/problemset/234267)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%A7%D8%B3%DA%A9%D9%88%D8%B1%D8%A8%D9%88%D8%B1%D8%AF) |
+|اسکرپر فرهادیان| [ سوال](https://quera.org/problemset/291525)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/DevOps/%D8%A7%D8%B3%DA%A9%D8%B1%D9%BE%D8%B1-%D9%81%D8%B1%D9%87%D8%A7%D8%AF%DB%8C%D8%A7%D9%86) |
