@@ -1,5 +1,7 @@
-# 🚀 جواب سوالات کوئرا
-## ✅ لیست سوالاتی که حل شدن   
+# 🚀 Quera Questions & Solutions  
+## ✅ List of Solved Questions  
+### 🤝 Contributions Welcome!
+If you'd like to contribute to this repository, feel free to open a pull request or submit an issue. Your help is always appreciated!
 
 | ❓ Question               | 📄 Question Link                                                                 | 🔗 Answer Link                                |
 |--------------------------|----------------------------------------------------------------------------------|-----------------------------------------------|
