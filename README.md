@@ -29,3 +29,4 @@ If you'd like to contribute to this repository, feel free to open a pull request
 |رمز‌نگاری| [ سوال](https://quera.org/problemset/182545)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D8%B1%D9%85%D8%B2-%D9%86%DA%AF%D8%A7%D8%B1%DB%8C) |
 |نمایش پست‌ها| [ سوال](https://quera.org/problemset/182544)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/FrontEnd/%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%BE%D8%B3%D8%AA%E2%80%8C-%D9%87%D8%A7) |
 |هگزاسلیبیسم| [ سوال](https://quera.org/problemset/291521)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/Linux/%D9%87%DA%AF%D8%B2%D8%A7%D8%B3%D9%84%DB%8C%D8%A8%DB%8C%D8%B3%D9%85) |
+|بلاگ| [ سوال](https://quera.org/problemset/14742)                                   | [جواب](https://github.com/sobhanagh/quera-answers/tree/main/Django/%D8%A8%D9%84%D8%A7%DA%AF) |
